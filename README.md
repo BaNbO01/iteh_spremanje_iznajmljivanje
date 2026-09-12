@@ -239,6 +239,5 @@ Za lokalno pokretanje bez Docker-a potrebno je imati:
 │   └── tests/
 ├── front/                  # React (Vite) SPA
 │   └── src/{api,components,hooks,pages}
-├── dijagrami/              # UML dijagrami (use case, dijagrami sekvenci)
 └── docker-compose.yml
 ```
